@@ -1,0 +1,6 @@
+
+*.png
+
+result/pred_enc.csv
+
+*.exe
